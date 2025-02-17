@@ -37,7 +37,7 @@ README.md
 ## Setup Instructions
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Real-Time-Ticketing-System.git
+git clone https://github.com/helithjay/Real-Time-Event-Ticketing-System.git
 cd Real-Time-Ticketing-System
 ```
 
