@@ -1,7 +1,7 @@
 # Real-Time Event Ticketing System
 
 ## Introduction
-The **Real-Time Event Ticketing System** is a multi-threaded Java application designed to simulate a real-time ticketing process. It ensures thread-safe operations through a shared ticket pool, allowing vendors to release tickets and customers to retrieve them. The system demonstrates Java concurrency and synchronization concepts using JavaFX for the graphical user interface.This project covers Main OOP Pricipals( Encapsulation , Inheritance , Polymorphism , and Abstraction).
+The **Real-Time Event Ticketing System** is a multi-threaded Java application designed to simulate a real-time ticketing process. It ensures thread-safe operations through a shared ticket pool, allowing vendors to release tickets and customers to retrieve them. The system demonstrates Java concurrency and synchronization concepts using JavaFX for the graphical user interface. This project covers Main OOP Pricipals( Encapsulation , Inheritance , Polymorphism , and Abstraction).
 
 ## Features
 - **Configuration Management**: Easily set parameters such as total tickets, release rate, retrieval rate, and maximum capacity.
