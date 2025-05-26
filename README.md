@@ -230,8 +230,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/helithjay)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/helith-jayasuriya-3720252b7/)
+- GitHub: [helithjay](https://github.com/helithjay)
+- LinkedIn: [Helith Jayasuriya](https://www.linkedin.com/in/helith-jayasuriya-3720252b7/)
 - Email: helithjayasuriya77@gmail.com
 
 ## 🙏 Acknowledgments
